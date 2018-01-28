@@ -5,7 +5,7 @@ A little collection for useful stuff
 ### Privacy
 
 * Duckduckgo (search engine) - [duckduckgo.com](https://duckduckgo.com/)
-* Tunnelbear (vpn client) - [www.tunnelbear.com](https://www.tunnelbear.com/)
+* Tunnelbear (vpn client) - [tunnelbear.com](https://www.tunnelbear.com/)
 * Signal (secure messenger) - [signal.org](https://www.signal.org/)
 
 ---
