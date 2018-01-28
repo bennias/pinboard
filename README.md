@@ -7,11 +7,7 @@ A little collection for useful stuff
 * Duckduckgo (search engine) - [duckduckgo.com](https://duckduckgo.com/)
 * Tunnelbear (vpn client) - [www.tunnelbear.com](https://www.tunnelbear.com/)
 * Signal (secure messenger) - [signal.org](https://www.signal.org/)
-
-
--
-
-
+---
 ### Performance
 
 * LazySizes (lazy loading)- [github.com/aFarkas/lazysizes](https://github.com/aFarkas/)
