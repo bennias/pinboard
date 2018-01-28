@@ -7,6 +7,7 @@ A little collection for useful stuff
 * Duckduckgo (search engine) - [duckduckgo.com](https://duckduckgo.com/)
 * Tunnelbear (vpn client) - [www.tunnelbear.com](https://www.tunnelbear.com/)
 * Signal (secure messenger) - [signal.org](https://www.signal.org/)
+
 ---
 ### Performance
 
@@ -39,6 +40,7 @@ A little collection for useful stuff
 * Dillinger (markdown editor) - [dillinger.io](https://dillinger.io/)
 * Gitignore (gitignore generator) - [gitignore.io](https://www.gitignore.io/)
 * N (node version management) - [github.com/tj/n](https://github.com/tj/n)
+* Bowser (browser detector) - [github.com/lancedikson/bowser](https://github.com/lancedikson/bowser)
 
 
 ### JAMStack / Headless
