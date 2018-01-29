@@ -66,6 +66,8 @@ A little collection for useful stuff
 ### Security
 
 * Webgoat (system testing) - [github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
+* Sqreen (testing library) - [sqreen.io](https://www.sqreen.io/)
+
 
 
 
