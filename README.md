@@ -45,22 +45,17 @@ A little collection for useful stuff
 * Carbon (image of code snippet) - [carbon.now.sh](https://carbon.now.sh)
 
 
-
-
-
-
 ### JAMStack / Headless
 
 *Jamstack (webpage) - [jamstack.org](https://jamstack.org/)*
 
 * Strapi (api backend) - [strapi.io](https://strapi.io/)
+* Tipe (api backend) - [tipe.io](https://tipe.io/)
 * Lumber (api backend) - [forestadmin.com/lumber](https://www.forestadmin.com/lumber/)
 * Cockpit (api backend) - [getcockpit.com](https://getcockpit.com/)
 * Forestry (api backend) - [forestry.io](https://forestry.io/)
 * Netlifycms (jam with backend) - [netlifycms.org](https://www.netlifycms.org/)
 * Contentful (headless cms) - [contentful.com](https://www.contentful.com/)
-
-
 
 
 ### CMS
