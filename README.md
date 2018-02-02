@@ -75,6 +75,13 @@ A little collection for useful stuff
 * Sqreen (testing library) - [sqreen.io](https://www.sqreen.io/)
 
 
+---
+### Podcasts
+
+* Filterblase (t3n) - [soundcloud.com/filterblase](https://soundcloud.com/filterblase)
+* Designer & Dev Schnack - [webdevs.simplecast.fm](https://webdevs.simplecast.fm/)
+
+
 
 
 
