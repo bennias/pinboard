@@ -51,6 +51,7 @@ A little collection for useful stuff
 *Jamstack (webpage) - [jamstack.org](https://jamstack.org/)*
 
 * Strapi (api backend) - [strapi.io](https://strapi.io/)
+* Wolkenkit (api backend) - [wolkenkit.io](https://www.wolkenkit.io/)
 * Tipe (api backend) - [tipe.io](https://tipe.io/)
 * Lumber (api backend) - [forestadmin.com/lumber](https://www.forestadmin.com/lumber/)
 * Cockpit (api backend) - [getcockpit.com](https://getcockpit.com/)
