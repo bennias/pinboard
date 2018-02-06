@@ -58,6 +58,9 @@ A little collection for useful stuff
 * Forestry (api backend) - [forestry.io](https://forestry.io/)
 * Netlifycms (jam with backend) - [netlifycms.org](https://www.netlifycms.org/)
 * Contentful (headless cms) - [contentful.com](https://www.contentful.com/)
+* Prismic (headless cms) - [prismic.io](https://prismic.io/)
+
+
 
 
 ### CMS
