@@ -12,6 +12,7 @@ A little collection for useful stuff
 ### Performance
 
 * LazySizes (lazy loading)- [github.com/aFarkas/lazysizes](https://github.com/aFarkas/)
+* Layzr (lazy loading)- [github.com/callmecavs/layzr.js](https://github.com/callmecavs/layzr.js)
 * Instantclick (js preload) - [instantclick.io](http://instantclick.io/)
 
 ### Images / Files
