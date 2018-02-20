@@ -28,15 +28,13 @@ A little collection for useful stuff
 * Scrollreveal (scroll animations) - [scrollrevealjs.org](https://scrollrevealjs.org/)
 
 
-### Design 
+### Style
 
 * Spectre (css framework) - [picturepan2.github.io/spectre](https://picturepan2.github.io/spectre/)
 * Kittn (css toolkit) - [kittn.de](http://kittn.de/)
 * Milligram (css framework) - [milligram.io](https://milligram.io/)
 * Carbon (design system) - [carbondesignsystem.com](http://www.carbondesignsystem.com/)
 * Simpleicons (svg icons) - [simpleicons.org](https://simpleicons.org/)
-
-
 
 
 ### Tools
