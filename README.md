@@ -63,8 +63,7 @@ A little collection for useful stuff
 * Netlifycms (jam with backend) - [netlifycms.org](https://www.netlifycms.org/)
 * Contentful (headless cms) - [contentful.com](https://www.contentful.com/)
 * Prismic (headless cms) - [prismic.io](https://prismic.io/)
-
-
+* Graphcool (grapql backend) - [graph.cool](https://www.graph.cool)
 
 
 ### CMS
