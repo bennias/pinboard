@@ -1,6 +1,6 @@
 # Benni's Pinboard 
 
-A little collection for useful stuff  
+A little collection of useful stuff  
 
 ### Privacy
 
