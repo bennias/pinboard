@@ -30,6 +30,7 @@ A little collection for useful stuff
 
 ### Style
 
+* Mjml (mail styling) - [mjml.io](https://mjml.io)
 * Spectre (css framework) - [picturepan2.github.io/spectre](https://picturepan2.github.io/spectre/)
 * Kittn (css toolkit) - [kittn.de](http://kittn.de/)
 * Milligram (css framework) - [milligram.io](https://milligram.io/)
