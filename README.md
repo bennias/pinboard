@@ -21,6 +21,7 @@ A little collection of useful stuff
 * FancyBox 3 (jQ lightbox) - [fancyapps.com/fancybox/3](https://fancyapps.com/fancybox/3/)
 * Siema (carousel) - [pawelgrzybek.com/siema](https://pawelgrzybek.com/siema/)
 * Uppy (file upload) - [uppy.io](https://uppy.io/)
+* Medium-zoom (image zoom) - [medium-zoom.francoischalifour.com](https://medium-zoom.francoischalifour.com)
 
 ### Animation
 
