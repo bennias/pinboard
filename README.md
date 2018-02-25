@@ -27,6 +27,7 @@ A little collection of useful stuff
 
 * Animejs (js animations) - [animejs.com](http://animejs.com/)
 * Scrollreveal (scroll animations) - [scrollrevealjs.org](https://scrollrevealjs.org/)
+* Pace (page load animation) - [github.hubspot.com/pace/docs/welcome](http://github.hubspot.com/pace/docs/welcome/)
 
 
 ### Style
