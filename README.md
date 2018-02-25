@@ -49,6 +49,7 @@ A little collection of useful stuff
 * Screenpeek (mockup generator) - [screenpeek.io](https://screenpeek.io/)
 * Carbon (image of code snippet) - [carbon.now.sh](https://carbon.now.sh)
 * Webcode (code generator) - [webcode.tools](https://webcode.tools)
+* Podigee (audio player) - [podigee.github.io/podigee-podcast-player](http://podigee.github.io/podigee-podcast-player/)
 
 
 ### JAMStack / Headless
