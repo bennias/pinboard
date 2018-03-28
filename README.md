@@ -94,6 +94,7 @@ A little collection of useful stuff
 * Digitalkompakt - [soundcloud.com/dkompakt](https://soundcloud.com/dkompakt)
 * Filterblase (t3n) - [soundcloud.com/filterblase](https://soundcloud.com/filterblase)
 * Designer & Dev Schnack - [webdevs.simplecast.fm](https://webdevs.simplecast.fm/)
+* Syntax. - [syntax.fm](https://syntax.fm)
 
 
 
