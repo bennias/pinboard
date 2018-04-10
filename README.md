@@ -66,6 +66,7 @@ A little collection of useful stuff
 * Forestry (api backend) - [forestry.io](https://forestry.io/)
 * Netlifycms (jam with backend) - [netlifycms.org](https://www.netlifycms.org/)
 * Contentful (headless cms) - [contentful.com](https://www.contentful.com/)
+* Storyblok (headless cms) - [storyblok.com](https://www.storyblok.com/)
 * Prismic (headless cms) - [prismic.io](https://prismic.io/)
 * Graphcool (grapql backend) - [graph.cool](https://www.graph.cool)
 * Drivecms (google drive api) - [drivecms.xyz](https://www.drivecms.xyz)
